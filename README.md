@@ -1,2 +1,2 @@
 # Point-Line
-کلاس نقطه-خط
+Point line class
